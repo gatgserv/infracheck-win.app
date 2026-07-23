@@ -2,9 +2,17 @@
 
 **Local-first Windows network diagnostics, Wi-Fi analysis, Ethernet inspection, LAN discovery and connection troubleshooting.**
 
-[Website](https://infracheck.app/) · [Documentation](https://infracheck.app/docs.html) · [Download](#download) · [Support and bug reports](https://github.com/gatgserv/infracheck-win.app/issues)
+## Official product links
+
+- **Product website:** [infracheck.app](https://infracheck.app/)
+- **Documentation and user guides:** [infracheck.app/docs.html](https://infracheck.app/docs.html)
+- **Windows download:** [Infracheck for Windows 1.1](releases/v1.1/Infracheck.Windows-v1.1.exe)
+- **Developer and publisher:** [ATG Services](https://atgserv.ro/)
+- **Support and bug reports:** [GitHub Issues](https://github.com/gatgserv/infracheck-win.app/issues)
 
 Infracheck for Windows is a network diagnostic application for Windows 10 and Windows 11. It combines a Wi-Fi analyzer, Wi-Fi signal monitor, channel analyzer, Ethernet adapter inspector, safe LAN scanner, network inventory and focused internet troubleshooting tools in one desktop interface.
+
+Infracheck is developed, published and digitally signed by [ATG Services](https://atgserv.ro/), a Romanian software and IT services company.
 
 The application is designed for home users, field technicians, help desks, network administrators and managed service providers who need to answer questions such as:
 
@@ -261,10 +269,11 @@ No. Appliance mode is optional and off by default. The Windows diagnostics work 
 
 Yes. Export a PDF evidence report after completing the relevant health checks and diagnostic tools.
 
-## Official links
+## Website, documentation, publisher and support
 
 - [Infracheck website](https://infracheck.app/)
 - [Infracheck documentation](https://infracheck.app/docs.html)
+- [ATG Services — developer and publisher](https://atgserv.ro/)
 - [Windows application downloads and manual](https://github.com/gatgserv/infracheck-win.app)
 - [Report a bug or request support](https://github.com/gatgserv/infracheck-win.app/issues)
 - [Latest Windows 1.1 release folder](https://github.com/gatgserv/infracheck-win.app/tree/main/releases/v1.1)
